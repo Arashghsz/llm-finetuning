@@ -137,4 +137,7 @@ https://huggingface.co/arashghsz/phi-2-dialogsum-finetuned
 While the assignment suggested LLaMA 1.1B, Phi-2 was chosen for this project due to its superior performance on dialogue summarization tasks as demonstrated in various benchmarks. Phi-2 offers a better balance between size and performance, making it a more suitable choice for this specific task and available resources. Furthermore, the availability of resources for Phi-2 made it a practical and efficient option for this project.
 
 ## Output
+![Sample Image](screenshots/output.png)
 ![Sample Image](screenshots/hugging_face.png)
+![Sample Image](screenshots/analysis.png)
+![Sample Image](screenshots/output_model_difference.png)
